@@ -4,3 +4,5 @@ https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcast
 https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/235959683.secure.m3u8?dw=80&hdnea=st=1682423913~exp=1682425713~acl=/i/30360708_9496693_lsi5wtnnfivzn4b09m2_1@688221/*~hmac=221994ab8c32a69d629fe468740b14193d49f471e83963419848ab4a2e8669e8&token=6447c195_f5aa7b201393f0d6187547c8affa9a1b1e797970
 #EXTINF:0 type="stream" channelId="-1",TV ZiMBO
 https://live-ak.vimeocdn.com/exp=1682427764~acl=%2F88d8fa91-10d5-43e0-a2fd-bdbd04933b16%2F%2A~hmac=daecbd3cafe34033f57f05bbef4ac334c8d69628b182fdd277d0e7965541d588/88d8fa91-10d5-43e0-a2fd-bdbd04933b16/hls.m3u8?min_seconds=30
+#EXTINF:0 type="stream" channelId="-1",
+https://www.vivalivetv.com/channel/24-hour-movies
